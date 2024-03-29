@@ -38,7 +38,7 @@ public class RideCleansingExercise extends ExerciseBase {
 	}
 
 }
-![alt text](https://sun9-21.userapi.com/impg/XIEYWBRAObFwXUIDJqyBbo43__39FVhL-G3-cA/-sYyQ3u9bvo.jpg?size=1790x974&quality=96&sign=81244dd5941ecef6eb58674c9bebc6f4&type=album)
+(![alt text](im1.png))
 ```
 ## RidesAndFaresExercise
 
