@@ -38,7 +38,7 @@ public class RideCleansingExercise extends ExerciseBase {
 	}
 
 }
-(![alt text](im1.png))
+(![alt text](im1.jpg))
 ```
 ## RidesAndFaresExercise
 
